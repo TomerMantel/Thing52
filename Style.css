@@ -1,12 +1,15 @@
 body {
     font-size: 16px;
     color: rgb(46, 190, 46);
-    background-color: #301fc7;
+    background-color: #ddbf16;
 }
 h1 {
     color: rgb(250, 0, 0);
     text-align: center;
 }
 p {
-    color: rgb(229, 255, 0);
+    color: rgb(4, 0, 255);
+}
+img{
+    width: 250px;
 }
