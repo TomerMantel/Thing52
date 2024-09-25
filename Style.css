@@ -6,10 +6,24 @@ body {
 h1 {
     color: rgb(255, 255, 255);
     text-align: center;
+    border-style: inset;
 }
 p {
     color: rgb(196, 195, 250);
+    text-align: center;
 }
 img{
     width: 250px;
+}
+.page_1{  
+    font-size: 26px;
+    color: rgb(71, 252, 0);   
+}
+.page_2{  
+    font-size: 26px;
+    color: rgb(71, 252, 0);   
+}
+.page_3{  
+    font-size: 26px;
+    color: rgb(71, 252, 0);   
 }
